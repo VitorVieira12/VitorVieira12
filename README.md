@@ -19,3 +19,33 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a5acd&height=120&section=footer"/>
+
+# Apresentação
+
+Olá! Meu nome é Vitor e sou um entusiasta apaixonado pelo mundo dos jogos e
+desenvolvimento. Sou um desenvolvedor de jogos dedicado e estou animado para
+entrar nesse mundo de forma profissional.
+
+Ao longo dos semestres da faculdade de design de games, mergulhei em diversos
+aspectos do desenvolvimento de jogos, desde a programação e design até a arte e
+modelagem em 3D. Acredito que a criação de jogos é uma forma poderosa de contar
+histórias, estimular a imaginação e proporcionar experiências únicas aos jogadores.
+
+Em meu portfólio, você encontrará uma seleção de alguns projetos feitos na faculdade
+até agora. Cada um deles representa não apenas meu trabalho árduo e dedicação, mas
+também a paixão que tenho por criar experiências.
+
+Tenho experiência principalmente em jogos 2D. Como desenvolvedor de jogos, tenho
+experiência em linguagens de programação como C# e um pouco de C++, domino o uso
+de engines populares, como Unity e um pouco de conhecimento da Unreal para criar
+jogabilidade fluida e imersiva.
+
+Além disso, possuo habilidades em modelagem 3D, permitindo-me dar vida a
+personagens e ambientes fascinantes, e também tenho experiência em design de níveis,
+buscando criar desafios cativantes e recompensadores para os jogadores.
+
+Estou sempre em busca de novas oportunidades emocionantes de colaboração e
+aprendizado no mundo do desenvolvimento de jogos. Se você estiver interessado em
+discutir projetos, parcerias ou qualquer outra coisa relacionada ao desenvolvimento de
+jogos, sinta-se à vontade para entrar em contato comigo. Estou ansioso para trocar
+ideias e fazer parte de novas aventuras no mundo dos jogos.
